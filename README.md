@@ -1,10 +1,10 @@
-# 📞 Multithreaded Selenium Bot for Phone Number Data Scraping
+# Multithreaded Selenium Bot for Phone Number Data Scraping
 
 This project uses `Selenium` in a multithreaded Python script to fetch data from a public search API based on phone numbers sourced from an Excel file.
 
 ---
 
-## ⚙️ Features
+##  Features
 
 - Multithreaded scraping using Python's `threading` module
 - Headless Chrome for fast execution
@@ -14,7 +14,7 @@ This project uses `Selenium` in a multithreaded Python script to fetch data from
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 project/
 │
@@ -36,7 +36,7 @@ project/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 
